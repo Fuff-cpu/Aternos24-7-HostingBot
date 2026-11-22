@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "FriendSMP-ESiQ.aternos.me:45437",
+    "port": 45437,
     "version": "",
     "try-creative": false
   },
